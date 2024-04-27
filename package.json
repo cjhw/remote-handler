@@ -1,0 +1,25 @@
+{
+  "name": "remote-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-pixels": "^3.3.3",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.15.0",
+    "tsx": "^4.7.3",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/get-pixels": "^3.3.4",
+    "@types/screenshot-desktop": "^1.12.3",
+    "@types/ws": "^8.5.10"
+  }
+}
